@@ -36,8 +36,6 @@ double majoiring in artificial intelligence Convergence.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin0-Park)](https://github.com/Jin0-Park/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin0-Park &layout=compact)](https://github.com/Jin0-Park/github-readme-stats)
-
 
 
 ## 🚀 Experience
